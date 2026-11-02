@@ -1,2 +1,3 @@
 ﻿# VPD Lab 01
-Status: ready
+Status: ready and reviewed
+
