@@ -1,0 +1,27 @@
+# C/C++: результаты сборки
+*.exe
+*.o
+*.obj
+
+# Java
+*.class
+
+# .NET (C# и F#)
+bin/
+obj/
+.vs/
+
+# TypeScript и Node.js
+node_modules/
+dist/
+
+# Rust
+target/
+
+# Python
+__pycache__/
+
+# Редактор и ОС
+.vscode/
+.DS_Store
+Thumbs.db
