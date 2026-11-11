@@ -29,3 +29,4 @@ const control_value: number = greeting_code * student.student_number;
 console.log(`Hello to ${greeting_code} from ${student.student_name_en}, number ${student.student_number}, group ${student.group_name}!`);
 console.log(`Привет, ${greeting_code}! Это ${student.student_name_ru}, номер ${student.student_number}, группа ${student.group_name}!`);
 console.log(`Student ID: ${student_id} | Language: ${student.language_name} | Control: ${control_value}`);
+export{}
