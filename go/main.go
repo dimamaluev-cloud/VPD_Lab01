@@ -5,10 +5,10 @@ import "fmt"
 func main() {
 
     // Данные студента
-    studentNameRu := "ВАШЕ ИМЯ"
-    studentNameEn := "Your Name"
-    studentNumber := 1
-    groupName := "ВАША_ГРУППА"
+    studentNameRu := "Малуев Дмитрий Сергеевич"
+    studentNameEn := "Maluev Dmitriy Sergeevich"
+    studentNumber := 11
+    groupName := "M3O-110BVk-26"
     languageName := "Go"
 
     // Создаём идентификатор студента.
