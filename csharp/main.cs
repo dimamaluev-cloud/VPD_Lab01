@@ -5,10 +5,10 @@ class Program
     static void Main()
     {
         // Данные студента
-        string studentNameRu = "ВАШЕ ИМЯ";
-        string studentNameEn = "Your Name";
-        int studentNumber = 1;
-        string groupName = "ВАША_ГРУППА";
+        string studentNameRu = "Малуев Дмитрий Сергеевич";
+        string studentNameEn = "Maluev Dmitriy Sergeevich";
+        int studentNumber = 11;
+        string groupName = "M3O-110BVk-26";
         string languageName = "C#";
 
         // Создаём идентификатор студента.
