@@ -4,7 +4,7 @@ fn main() {
     let student_name_ru = "ВАШЕ ИМЯ";
     let student_name_en = "Your Name";
     let student_number: u32 = 1;
-    let group_name = "ВАША_ГРУППА";
+    let group_name = "M3O-110BVk-26";
     let language_name = "Rust";
 
     // Формируем идентификатор студента.
