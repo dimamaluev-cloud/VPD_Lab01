@@ -2,10 +2,10 @@ public class Main {
     public static void main(String[] args) {
 
         // Данные студента
-        String studentNameRu = "ВАШЕ ИМЯ";
-        String studentNameEn = "Your Name";
+        String studentNameRu = "Малуев Дмитрий Сергеевич";
+        String studentNameEn = "Maluev Dmitriy Sergeevich";
         int studentNumber = 1;
-        String groupName = "ВАША_ГРУППА";
+        String groupName = "M3O-110BVk-26";
         String languageName = "Java";
 
         // Формируем идентификатор студента.
