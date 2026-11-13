@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # Данные студента
-student_name_ru="ВАШЕ ИМЯ"
-student_name_en="Your Name"
+student_name_ru="Малуев Дмитрий Сергеевич"
+student_name_en="Maluev Dmitriy Sergeevich"
 student_number=1
-group_name="ВАША_ГРУППА"
+group_name="M3O-110BVk-26"
 language_name="Bash"
 
 # Создаём идентификатор студента.
