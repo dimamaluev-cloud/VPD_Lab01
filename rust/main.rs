@@ -1,8 +1,8 @@
 fn main() {
 
     // Данные студента
-    let student_name_ru = "ВАШЕ ИМЯ";
-    let student_name_en = "Your Name";
+    let student_name_ru = "Малуев Дмитрий Сергеевич";
+    let student_name_en = "Maluev Dmitriy Sergeevich";
     let student_number: u32 = 1;
     let group_name = "M3O-110BVk-26";
     let language_name = "Rust";
