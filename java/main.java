@@ -4,7 +4,7 @@ public class Main {
         // Данные студента
         String studentNameRu = "Малуев Дмитрий Сергеевич";
         String studentNameEn = "Maluev Dmitriy Sergeevich";
-        int studentNumber = 1;
+        int studentNumber = 11;
         String groupName = "M3O-110BVk-26";
         String languageName = "Java";
 
